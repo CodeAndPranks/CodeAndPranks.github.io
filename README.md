@@ -8,4 +8,4 @@ No evil stuff !
 
 0. Read me.This page content; https://CodeAndPranks.github.io 
 2. Alert test who end with a  "EMPTY disk " prank; https://CodeAndPranks.github.io/git.html
-3. Malware image with running text say you need a OS e.t.c; https://codeandpranks.github.io/maleware/
+3. Malware image with running text say you need a OS e.t.c.Inaame it 'update':) https://codeandpranks.github.io/update/
