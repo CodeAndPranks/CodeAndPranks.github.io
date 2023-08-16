@@ -1,8 +1,6 @@
 I read this,and struggle alot,but now I can publish on github as before:)
 https://github.blog/changelog/2022-01-11-git-io-no-longer-accepts-new-urls/
 
-Solution ; https://www.youtube.com/watch?v=Opwz13LZYg4
-
 Links to my scripts and pranks URL's if you like to prank someone.
 No evil stuff !
 
