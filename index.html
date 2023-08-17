@@ -3,20 +3,20 @@
   <head>
     <meta charset="utf-8" />
   </head>
-  
-<body>
- <h1 id="demo" style="text-align:center; front-weight:bold"></hl>   
+  <body  onload="myFunc()"> 
+ 
+    <h1 id="demo" style="text-align:center; front-weight:bold"></hl>   
     <h2>Cat album </h2>   
 </br>
 <p style="text-align:center;">
 <img id="img" src="https://w7.pngwing.com/pngs/664/275/png-transparent-himalayan-cat-thai-cat-siamese-cat-balinese-cat-birman-ragdoll-cat-mammal-animals-cat-like-mammal-thumbnail.png"</p>
 <br>
     <div id="test" ></div>  
-<button id='btn' style="text-algin-:center;" >click</button>
+
 <script>
 document.body.style.backgroundColor="green" 
-btn.addEventListener('click',myFunction)   
-function myFunction() {
+
+function myFunc () {
 document.body.style.backgroundColor="green"
 alert("Free edition cats Album")
       
@@ -24,6 +24,7 @@ document.body.style.backgroundColor="black"
 demo.innerHTML="EMPTY HARD DISK"
 demo.style.color="white"
 img.style.display="none"
+  
 let timePerLetter = 30,
    // newLineCharacter = '|',
    text = document.createTextNode('');
