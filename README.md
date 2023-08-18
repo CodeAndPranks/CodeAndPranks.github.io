@@ -12,5 +12,6 @@ No evil stuff ,but  maybee alittle annoying.
 5.Plenty ccs in this Zoom prank.Link-->> https://codeandpranks.github.io/ZoomOut/
 
 6. Python-prank.Open multiple files(sosial plattforms) and you cant stop it ! A bit evil.
-On kali just python prank.py.
+On kali just type python prank.py.
 Use pyinstaller if you will send link to friends on windows.(I'will update with .exe)
+https://codeandpranks.github.io/pyprank.py/
