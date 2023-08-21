@@ -1,17 +1,17 @@
-I read this,and struggle alot,but now I can publish on github as before:)
-https://github.blog/changelog/2022-01-11-git-io-no-longer-accepts-new-urls/
+Links to my scripts and pranks URL's.
+No evil stuff ,but some maybee alittle annoying.I'll pdate as longs as I can type. 
+       
+1. ALERT test who end with in an  "EMPTY disk" prank
+ -->   https://CodeAndPranks.github.io/index.html
+2. MALWARE image with running text say you need a OS e.t.c.I just named it 'update'. -->  https://codeandpranks.github.io/update
 
-Links to my scripts and pranks URL's if you like to prank someone.
-No evil stuff ,but  maybee alittle annoying.
+3.ZOOM prank 1--> https://codeandpranks.github.io/ZoomOut
 
-1. Read me.This page content; https://CodeAndPranks.github.io
-2. //codeing  execercise. Updateed as longs as I can type. 
-3. Alert test who end with in an  "EMPTY disk" prank; https://CodeAndPranks.github.io/index.html
-4. Malware image with running text say you need a OS e.t.c.I just named it 'update'. https://codeandpranks.github.io/update/
+4.ZOOM prank 2,with colur and sub-sup texts  -->  https://codeandpranks.github.io/Zoom/
 
-5.Plenty ccs in this Zoom prank.Link-->> https://codeandpranks.github.io/ZoomOut/
-
-6. Python-prank.Open multiple files(sosial plattforms) and you cant stop it ! A bit evil.
+5. Python-prank.Open multiple page(sosial plattforms),and you cant stop it !
 On kali just type python prank.py.
-Use pyinstaller if you will send link to friends on windows.(I'will update with .exe)
-https://codeandpranks.github.io/pyprank.py/
+Use pyinstaller for friends on windows.(I'will update with .exe)
+-->  https://codeandpranks.github.io/pyprank.py/
+  
+6. Manchester Udt....no info:)
