@@ -1,9 +1,8 @@
-Links to my scripts and pranks URL's.
-No evil stuff ,but some maybee alittle annoying.I'll pdate as longs as I can type. 
+Links to my scripts and pranks.
+No evil stuff ,but some maybee alittle annoying. I'll update my GitHub as longs as I can type. 
        
-1. ALERT test who end with in an  "EMPTY disk" prank
- -->   https://CodeAndPranks.github.io/index.html
-2. MALWARE image with running text say you need a OS e.t.c.I just named it 'update'. -->  https://codeandpranks.github.io/update
+1. Error. Will bee replaced  
+3. MALWARE image with running text say you need a OS e.t.c.I just named it 'update'. -->  https://codeandpranks.github.io/update
 
 3.ZOOM prank 1--> https://codeandpranks.github.io/ZoomOut
 
