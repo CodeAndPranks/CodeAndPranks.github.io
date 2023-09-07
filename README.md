@@ -1,7 +1,7 @@
 Links to my scripts and pranks.
 No evil stuff ,but some maybee alittle annoying. I'll update my GitHub as longs as I can type. 
        
-1. Ct album go diret to black screen ,with running  text --> https://codeandpranks.github.io/
+1. Cat album go diret to black screen ,with running  text --> https://codeandpranks.github.io/
 3. MALWARE image with running text say you need a OS e.t.c.I just named it 'update'. -->  https://codeandpranks.github.io/update
 
 3.ZOOM prank 1--> https://codeandpranks.github.io/ZoomOut
