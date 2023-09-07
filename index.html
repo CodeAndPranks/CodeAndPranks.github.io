@@ -40,6 +40,13 @@ document.body.style.backgroundColor="black"
     text.nodeValue += char //== newLineCharacter ? '\n' : char;
     if(i < str.length)
       setTimeout(main, timePerLetter);
+else
+     setTimeout(function() {
+         text.nodeValue = ""
+         demo.innerHTML = ""
+ }, 2000);  
+
+    
   })();
 }
 
