@@ -17,3 +17,4 @@ Use pyinstaller for friends on windows.(I'will update with .exe)
 -->  https://codeandpranks.github.io/pyprank.py/
   
 7. Manchester Udt..develop challange..no info:)
+https://codeandpranks.github.io/ManUdt
