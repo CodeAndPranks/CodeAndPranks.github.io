@@ -12,12 +12,12 @@ No evil stuff ,but some maybee a little annoying.
 5.Photo-fun https://codeandpranks.github.io/PhotoShow
 
 6. Python-prank.Open multiple page(sosial plattforms),and you cant stop it.
-On kali just type python prank.py.
-Use pyinstaller for friends on windows.(.exe)
--->  https://codeandpranks.github.io/pyprank.py/
-  
-7. Manchester Udt..develop challange.
-Change the loaed image/url to those you like,and spitt out as much running text you like,before it reload and reload.A 'onbeforeunload' work,depenging on browser.Otherwise can just exit.A darker version of this simple test,..freeze browser/force restart by unremoveble overlay other trix do same/simulare for leaarning is my goal.
+Use pyinstaller to use for friends on windows.(.exe)
+--> git clone https://github.com/CodeAndPranks/prank.py.git
+Then run; python prank.py
+
+8. Manchester Udt..develop challange.
+Change the loaded image/url to image/url you like,and spitt out as much running text you like,before it reload it all.A 'onbeforeunload' work,depenging on browser.Therfore final goal is a darker version wich freeze browser or got a unremoveble overlay.
 https://codeandpranks.github.io/ManUdt
 
 8.test.'test' is the easy way to change any page/image.
