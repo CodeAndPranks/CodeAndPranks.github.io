@@ -11,9 +11,9 @@ No evil stuff ,but some maybee a little annoying.
 
 5.Photo-fun https://codeandpranks.github.io/PhotoShow
 
-6. Python-prank.Open multiple page(sosial plattforms),and you cant stop it.
-Use pyinstaller to use for friends on windows.(.exe)
---> git clone https://github.com/CodeAndPranks/prank.py.git
+6. Python-prank open multiple page(sosial plattforms),and you cant stop it.Eventually browser chrash.
+Use pyinstaller for windows.(.exe)
+On Kali just git clone https://github.com/CodeAndPranks/prank.py.git
 Then run; python prank.py
 
 8. Manchester Udt..develop challange.
