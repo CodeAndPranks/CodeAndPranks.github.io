@@ -1,7 +1,7 @@
 code to my scripts; https://github.com/CodeAndPranks/
 No evil stuff ,but some maybee a little annoying.
 
-1. Cat album goes to black screen,after alert and a warning with running text,and 2 sec delay --> https://codeandpranks.github.io/cat/ 
+1. Cat album goes to black screen,after alert and a warning with running text,and 2 sec delay --> https://codeandpranks.github.io/Album/ 
 
 2. MALWARE image with running text say you need a OS e.t.c.I just named it 'update'. -->  https://codeandpranks.github.io/update
 
