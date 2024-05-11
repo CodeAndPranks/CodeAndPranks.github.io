@@ -16,5 +16,6 @@ Then run; python prank.py
 Change content and reloads new img and text forever.
 A 'onbeforeunload' work,depending on OS.Next is a 'freeze' use f.x 'unremoveble' overlay to force restart. --> https://codeandpranks.github.io/ManUdt
 
-7.Image hyperlink test for nr 6.(ManUdt)--> https://codeandpranks.github.io/test
-8.Tic,tac,toe.See Readme file or--> https://codeandpranks.github.io/Tictactoe
+7.Image chrash chrome,edge.Link to Radmee,see no 1.Use on own risk.--> https://codeandpranks.github.io/test2
+
+8.Tic,tac,toe.See Readme file --> https://codeandpranks.github.io/Tictactoe
