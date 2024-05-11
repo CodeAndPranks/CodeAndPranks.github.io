@@ -6,7 +6,7 @@ I just named it 'update'.--> https://codeandpranks.github.io/update
 
 3.ZOOM in colour 3gd with sub-sup txt.--> https://codeandpranks.github.io/Zoom/
 
-4.Photo-test.Go up/down slide etc --> https://codeandpranks.github.io/PhotoShow
+4.Photo-test.Go up/down slide etc --> https://codeandpranks.github.io/PhotoShow.
 
 5.Python-prank open multiple page(sosial plattforms),and you can't stop it.Eventually browser chrash.
 git clone  https://github.com/CodeAndPranks/prank.py.git
