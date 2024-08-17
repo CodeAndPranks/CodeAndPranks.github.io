@@ -22,6 +22,6 @@ Then run; python prank.py
 Change content and reloads new img and text forever.
 A 'onbeforeunload' work,depending on OS.Next is a 'freeze' use diff teqnics to force a restart--> https://codeandpranks.github.io/ManUdt
 
-7.Image crash chrome,edge.Link to Readmee above.Use on own risk⚠️--> https://codeandpranks.github.io/test2
+7.Image crash chrome,edge.Link to Readmee above.Use on own risk⚠️--> https://codeandpranks.github.io/wiew
 
 8.Tic,tac,toe.See Readme file --> https://codeandpranks.github.io/Tictactoe
