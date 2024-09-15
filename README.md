@@ -1,7 +1,7 @@
-All scripts & Readmee.files;-->
+All scripts & Readmee.files-->
 https://github.com/CodeAndPranks
 
-1.'Album'Show a image,then an alert.Click give running text warning + 2 sec delay,then screen go black.-->
+1.Album show a image,then an alert.Click give running text warning + 2 sec delay,then screen go empty grey.-->
 https://codeandpranks.github.io/Album 
 
 2. MALWARE image with running text say you need a OS so on.
@@ -11,8 +11,10 @@ https://codeandpranks.github.io/update
 3.ZOOM in colour 3dg sub-sup txt.-->
 https://codeandpranks.github.io/Zoom
 
-4.Photo-test.Go up/down slide etc.-->
-https://codeandpranks.github.io/PhotoShow
+4.maquees-test.Go up/down slide etc.-->
+https://codeandpranks.github.io/marquees-test
+4a.marqees-test2,but CSS & JS in seperated fils.-->
+https://codeandpranks.github.io/marquees-test2
 
 5.Python-prank open multiple page(sosial plattforms),and you can't stop it.Eventually browser chrash.
 git clone  https://github.com/CodeAndPranks/prank.py.git
