@@ -12,12 +12,11 @@ https://codeandpranks.github.io/update
  CSS color and zoom trix's.
 https://codeandpranks.github.io/Zoom
 
-4.maquees-test.Go up/down slide etc.
-CSS and JS stored in the index.html
-https://codeandpranks.github.io/marqees-test.
-4a.marqees-test2.
+4.maquee-test.Img go up/down slide etc.CSS and JS all in index.html.
+https://codeandpranks.github.io/marqee-test.
+4a.marqee-test2.
 CSS & JS is stored in seperated fils.
-https://codeandpranks.github.io/marqees-test2
+https://codeandpranks.github.io/marqee-test2
 
 5.Python-prank open multiple page(sosial plattforms),and you can't stop it.Eventually browser chrash.
 git clone and run python prank.py
