@@ -13,7 +13,7 @@ https://codeandpranks.github.io/update
 https://codeandpranks.github.io/Zoom
 
 4.maquee.A multi-gif with buttons to play with etc.
-https://codeandpranks.github.io/maruqee
+https://codeandpranks.github.io/marquee
 
 5.Python-prank open multiple page(sosial plattforms).. you can't stop it.Eventually browser chrash.
 git clone and run python3 prank.py
