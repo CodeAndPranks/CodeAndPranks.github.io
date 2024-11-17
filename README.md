@@ -27,4 +27,5 @@ https://codeandpranks.github.io/ManUdt
 7.wiew crash chrome,edge.See GitHub link to Readmee at top.Don't abuse⚠️
 https://codeandpranks.github.io/wiew
 
-8.Tic,tac,toe.See Readme file --> https://codeandpranks.github.io/Tictactoe
+8.Tic,tac,toe.Read readmee,link at top
+https://codeandpranks.github.io/Tictactoe
