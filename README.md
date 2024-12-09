@@ -1,10 +1,10 @@
-All scripts & Readmee.files-->
+Scripts & Readmee.files at-->
 https://github.com/CodeAndPranks
 
-1.Album show a image,then an alert.Click activate running text warning,then 2 sec delay before html goes empty and screen ugly grey.
+1.Album:show a image,then a alert.Click activate run-text warning,then 2 sec delay before screen turn ugly grey.
 https://codeandpranks.github.io/Album 
 
-2. MALWARE image with running text say unit need a OS and so on.
+2.MALWARE: malware-image with running text say empty disk,unit need new OS.
 I just named it 'update'.-->
 https://codeandpranks.github.io/update
 
