@@ -4,9 +4,7 @@ https://github.com/CodeAndPranks
 1.Album:show a image,then a alert.Click activate run-text warning,then 2 sec delay before screen turn ugly grey.
 https://codeandpranks.github.io/Album 
 
-2.MALWARE: malware-image with running text say empty disk,unit need new OS.
-I just named it 'update'.-->
-https://codeandpranks.github.io/update
+2.Dealeted[New script will take this place]
 
 3.ZOOM: in colour 3dg sub-sup txt.
  CSS color and zoom trix's.
