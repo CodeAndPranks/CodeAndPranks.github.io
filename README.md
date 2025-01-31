@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+code+and+pranks%2Ca+;+live+test+page+for++code+fun.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Welcome+to+code+and+pranks%2Ca+;+live+test+page+for++code+fun.)](https://git.io/typing-svg)
 
 Scripts & Readmee.files at-->
 https://github.com/CodeAndPranks
