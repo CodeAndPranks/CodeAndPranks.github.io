@@ -19,7 +19,7 @@ https://codeandpranks.github.io/marquee
 git clone and run python3 prank.py
 https://github.com/CodeAndPranks/prank.py
 
-6. Manchester Udt.It's a Apice used by the browser-test[crash] wiew-prosjekt(nr7)
+6. Manchester Udt.A pice used by the browser-test[crash] wiew-prosjekt(nr7)
 https://codeandpranks.github.io/ManUdt
 
 7.wiew: crash chrome,edge.
@@ -29,6 +29,6 @@ https://codeandpranks.github.io/wiew
 8.Tic,tac,toe.Read readmee,link(s) at top
 https://codeandpranks.github.io/Tictactoe
 
-9:Tic,tac,toe VS PC.(Js-challengs done:)
+9:Tic,tac,toe VS PC.(Js-challengs)
 https://codeandpranks.github.io/TicTacToe2
 
