@@ -19,12 +19,11 @@ https://codeandpranks.github.io/marquee
 git clone and run python3 prank.py
 https://github.com/CodeAndPranks/prank.py
 
-6. Manchester Udt.(dev challange)
-Change text and img and reload script.
-A 'onbeforeunload' work,depending on OS.A pice used by wiew-prosjekt(nr7)
+6. Manchester Udt.It's a Apice used by the browser-test[crash] wiew-prosjekt(nr7)
 https://codeandpranks.github.io/ManUdt
 
-7.wiew: crash chrome,edge.See GitHub link to Readmee at top.Don't abuse⚠️
+7.wiew: crash chrome,edge.
+Link to easy code at top.Don't abuse⚠️
 https://codeandpranks.github.io/wiew
 
 8.Tic,tac,toe.Read readmee,link(s) at top
