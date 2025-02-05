@@ -10,9 +10,7 @@ https://codeandpranks.github.io/Album
 
 2.Dealeted[New script will take this place]
 
-3.ZOOM: in colour 3dg sub-sup txt.
- CSS color and zoom trix's.
-https://codeandpranks.github.io/Zoom
+3.Dealeted[New script will take this place]
 
 4.maquee:A multi-gif with buttons to play.
 https://codeandpranks.github.io/marquee
