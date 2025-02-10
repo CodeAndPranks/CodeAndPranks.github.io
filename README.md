@@ -11,7 +11,7 @@ https://codeandpranks.github.io/Album
 2.Dealeted[New script will take this place]
 
 3.test-repo
-https://github.com/codeandpranks/test/repo
+https://github.com/codeandpranks/test-repo
 
 4.maquee:A multi-gif with buttons to play.
 https://codeandpranks.github.io/marquee
