@@ -27,7 +27,7 @@ https://codeandpranks.github.io/ManUdt
 Link to easy code at top.Don't abuse⚠️
 https://codeandpranks.github.io/wiew
 
-8.Tic,tac,toe.Read readmee,link(s) at top
+8.Tic,tac,toe.Singel-Player
 https://codeandpranks.github.io/Tictactoe
 
 9:Tic,tac,toe VS PC.(A Js-challengs)
