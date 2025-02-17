@@ -2,10 +2,10 @@
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-Scripts & Readmee.files at-->
+Scripts & Readmee.files -->
 https://github.com/CodeAndPranks
 
-1.Album:show a image,then a alert.Click activate run-text warning,then 2 sec delay before screen turn ugly grey.
+1.Album:show a image,then a alert.Click activate running-text-warning,then 2 sec delay before screen turn ugly grey.
 https://codeandpranks.github.io/Album 
 
 2.Dealeted[New script will take this place]
@@ -30,6 +30,6 @@ https://codeandpranks.github.io/wiew
 8.Tic,tac,toe.Read readmee,link(s) at top
 https://codeandpranks.github.io/Tictactoe
 
-9:Tic,tac,toe VS PC.(Js-challengs)
-https://codeandpranks.github.io/TicTacToe2
+9:Tic,tac,toe VS PC.(A Js-challengs)
+https://codeandpranks.github.io/TicTacToe-Human-VS-PC-/
 
