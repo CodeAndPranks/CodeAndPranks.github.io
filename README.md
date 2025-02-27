@@ -5,8 +5,8 @@ Still,the worm eat my construction graph !
 Scripts & Readmee.files -->
 https://github.com/CodeAndPranks
 
-1.Album:show a image,then a alert.Click activate running-text-warning,then 2 sec delay before screen turn ugly grey.
-https://codeandpranks.github.io/Album 
+1.malware:show a image and a running-text-warning,then 2 sec delay before screen turn ugly grey.
+https://codeandpranks.github.io/malware 
 
 2.Dealeted[New script will take this place]
 
