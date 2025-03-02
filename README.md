@@ -32,7 +32,7 @@ https://codeandpranks.github.io/Tictactoe
 
 9:Tic,tac,toe VS PC.A Js-challengs:
 Remove app.js,build a 2 player with winn,draw,and hover-efect for boxHuman:
-https://codeandpranks.github.io/TicTacToe-Human-VS-Phone
+https://codeandpranks.github.io/TicTacToe-Human-Phone
 
 10:Tic,tac,toe VS PC.(Hover-effect only work on Linux due to browser-issue.
 https://codeandpranks.github.io/TicTacToe-Human-VS-PC
