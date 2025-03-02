@@ -34,5 +34,5 @@ https://codeandpranks.github.io/Tictactoe
 https://codeandpranks.github.io/TicTacToe-Human-VS-Phone
 
 10:Tic,tac,toe VS PC.(ONLY work on Linux(Browser-issue)
-https://codeandpranks.github.io/TicTacToe-Human-VS-PC-/
+https://codeandpranks.github.io/TicTacToe-Human-VS-PC
 
