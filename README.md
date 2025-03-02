@@ -9,7 +9,8 @@ https://github.com/CodeAndPranks
 1.malware:show a image and a running-text-warning,then 2 sec delay before screen turn ugly grey.
 https://codeandpranks.github.io/malware 
 
-2.Dealeted[New script will take this place]
+2.some-Really-Nice-CSS & JavaScript Functions:
+https://codeandpranks.github.io/someFunctions
 
 3.test-repo
 https://github.com/codeandpranks/test-repo
