@@ -30,6 +30,9 @@ https://codeandpranks.github.io/wiew
 8.Tic,tac,toe.Singel-Player
 https://codeandpranks.github.io/Tictactoe
 
-9:Tic,tac,toe VS PC.(A Js-challengs)
+9:Tic,tac,toe VS PC.(A Js-challengs:Remove app.js,build a 2 player with winn,draw,and hover for  boxHuman)
+https://codeandpranks.github.io/TicTacToe-Human-VS-Phone
+
+10:Tic,tac,toe VS PC.(ONLY work on Linux(Browser-issue)
 https://codeandpranks.github.io/TicTacToe-Human-VS-PC-/
 
