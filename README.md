@@ -3,7 +3,7 @@
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-ALL dcripts & Readmee.files -->
+ALL Scripts & Readmee.files -->
 https://github.com/CodeAndPranks?tab=repositories
 
 1.malware:show a image and a running-text-warning,then 2 sec delay before screen turn ugly grey.
