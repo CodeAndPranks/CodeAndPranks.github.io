@@ -1,9 +1,12 @@
 <a id="up"></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Code+And+Pranks+info+and%2C+;+live+test+links+for+code+fun.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Code+And+Pranks+info+and%2C+;+live+demo+links+for+code+fun.)](https://git.io/typing-svg)
+
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-ALL my scripts.Each repo have readmee.file:
+All my repo.Each one got a readmee.file:
+
 https://github.com/CodeAndPranks?tab=repositories
 
 1.malware;show image and a running-text-warning,then 2 sec delay before the screen turn empty and ugly grey:
@@ -12,8 +15,7 @@ https://codeandpranks.github.io/malware
 2.Some-Really-Nice CSS & JavaScript Functions,all with demo-button:
 https://codeandpranks.github.io/someFunctions
 
-3.My test-repo:
-https://github.com/codeandpranks/test-repo
+3.My test-repo:https://github.com/codeandpranks/test-repo
 
 4.maquee;A multi-gif with buttons to play:
 https://codeandpranks.github.io/marquee
