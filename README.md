@@ -36,8 +36,8 @@ https://codeandpranks.github.io/wiew
 https://codeandpranks.github.io/Tictactoe
 
 9.Tic,tac,toe VS PC who work for all.
-(Can you solve the same Js-challengs;
-Remove app.js,build a hunam vs phone with winn,draw,and hover-efect for boxHuman):
+Se my result,and try if you handle the js-challengs;Remove app.js and make your app.js:
+build a human vs pc,winn & draw alert,winn-function,pc-move,and hover-efect for boxHuman):
 https://codeandpranks.github.io/Tic-tac-toe-Human-Phone
 
 10.Tic,tac,toe VS PC.Hover-effect only work on Linux due to browser-issue.
