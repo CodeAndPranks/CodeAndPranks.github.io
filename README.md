@@ -40,8 +40,12 @@ Se my result,and try if you handle the js-challengs;Remove app.js and make your 
 build a human vs pc,winn & draw alert,winn-function,pc-move,and hover-efect for boxHuman):
 https://codeandpranks.github.io/Tic-tac-toe-Human-Phone
 
-10.Tic,tac,toe VS PC.Hover-effect only work on Linux due to browser-issue.
-Let it stay for e.g debug,pull request:
+10.Tic,tac,toe VS PC.Hover-effect only work on Linux,if consol.log is open.
+ Video,code and distro info at :
+ ```
+ https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC
+```
+I let this stay e.g for debug or pull request.Test-link:
 https://codeandpranks.github.io/TicTacToe-Human-VS-PC
 
 <p align="center">(<a href="#up">Up to top</a>)</p>
