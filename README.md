@@ -5,27 +5,25 @@
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-All my repo.Each one got a readmee.file:
-
+Link to my repos with a few more scripts.Each got a readmee.file:
+```
 https://github.com/CodeAndPranks?tab=repositories
-
-1.malware;show image and a running-text-warning,then 2 sec delay before the screen turn empty and ugly grey:
-https://codeandpranks.github.io/malware 
-
-2.Some-Really-Nice CSS & JavaScript Functions,all with demo-button:
+```
+1.Some-Really-Nice CSS & JavaScript Functions,all with demo-button:
 https://codeandpranks.github.io/someFunctions
 
-3.My test-repo:https://github.com/codeandpranks/test-repo
+2.[Deleted.New sceript will take this place]
 
-4.maquee;A multi-gif with buttons to play:
+3.maquee;A multi-gif with buttons to play:
 https://codeandpranks.github.io/marquee
 
-5.Python-prank;Open multiple page sosial plattforms,U can't stop it,browser chrash:
-git clone and run python3 prank.py:
-https://github.com/CodeAndPranks/prank.py
+4.malware image;and a running-text-warning,a 2 sec delay and screen go empty and ugly grey:
+https://codeandpranks.github.io/malware 
 
-6.ManUdt;A code-pice used by browser-test crash prosjekt wiew,nr 7 at this list:
-https://codeandpranks.github.io/ManUdt
+5.Python-prank;Open multiple page sosial plattforms,U can't stop it,browser chrash:
+git clone and run python3 prank.py:https://github.com/CodeAndPranks/prank.py
+
+6.[Dealeted.New sceript will take this place]
 
 7.wiew;Crash chrome,edge.
 Link to easy code at top.Show a img,freez.
@@ -36,16 +34,17 @@ https://codeandpranks.github.io/wiew
 https://codeandpranks.github.io/Tictactoe
 
 9.Tic,tac,toe VS PC who work for all.
-Se my result,and try if you handle the js-challengs;Remove app.js and make your app.js:
-build a human vs pc,winn & draw alert,winn-function,pc-move,and hover-efect for boxHuman):
+Se my result,and try this js-challengs;Remove app.js and make your app.js:
+build a human VS pc,winn and draw alert,winn and reset functions,pc-move,and hover-efect for boxHuman,withot touching the CSS or html files.Google ok,GPT is cheating.Good Luck:
 https://codeandpranks.github.io/Tic-tac-toe-Human-Phone
 
-10.Tic,tac,toe VS PC.Hover-effect only work on Linux,if consol.log is open.
- Video,code and distro info at :
+10.Tic,tac,toe VS PC.The humans hover-effect only work on Linux,if consol.log is open.
+ Video,code and distro info etc:
  ```
  https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC
 ```
-I let this stay e.g for debug or pull request.Test-link:
+I let it stay e.g for debug or pull request.Test-link:
 https://codeandpranks.github.io/TicTacToe-Human-VS-PC
+
 
 <p align="center">(<a href="#up">Up to top</a>)</p>
