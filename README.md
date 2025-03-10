@@ -5,7 +5,7 @@
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-Link to my repos with a few more scripts.Each got a readmee.file:
+Link to my repos with a few more scripts. Each got a readmee.file:
 https://github.com/CodeAndPranks?tab=repositories
 ```
 https://github.com/CodeAndPranks?tab=repositories
