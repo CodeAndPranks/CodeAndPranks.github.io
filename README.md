@@ -1,6 +1,6 @@
 ## Demo links & test buttons<a id="up"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Code+And+Pranks+info+and%2C+;+live+demo+links+for+code+fun.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=333333&width=435&lines=Code+And+Pranks+info+page+with%2C+;+live+demo+links+for+testing+purpose.)](https://git.io/typing-svg)
 
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
@@ -18,7 +18,9 @@ https://codeandpranks.github.io/someFunctions
 3.maquee;A multi-gif with buttons to play:
 https://codeandpranks.github.io/marquee
 
-4.[Deleted.New script will take this place]
+4.[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=000000&background=FF1493&width=435&lines=+My+test-repo+with%2C+;+demo+links+for+testing+purpose.)](https://git.io/typing-svg)
+https://github.com/CodeAndPranks/test-repo
+
 
 5.Python-prank;Open multiple page sosial plattforms,U can't stop it,browser chrash:
 git clone and run python3 prank.py:https://github.com/CodeAndPranks/prank.py
@@ -38,6 +40,7 @@ Se my result,and try js-challengs;
 Don't touch CSS/html,make your app.js:
 build a human VS pc,winn and draw alert,winn and reset functions,pc-move,and hover-effect for boxHuman, without touch the CSS or html files.Google ok,GPT not!
 https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC
+
 
 
 <p align="center">(<a href="#up">Up to top</a>)</p>
