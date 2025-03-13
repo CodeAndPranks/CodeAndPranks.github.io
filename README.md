@@ -5,12 +5,12 @@
 Still,the worm eat my construction graph !
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
-Link to my repos with a few more scripts. Each got a readmee.file:
+Link to my repos with a few more scripts.   Each got a readmee.file:
 https://github.com/CodeAndPranks?tab=repositories
 ```
 https://github.com/CodeAndPranks?tab=repositories
 ```
-1.Some-Really-Nice CSS & JavaScript Functions,all with demo-button:
+1.Some-Really-Nice CSS & JavaScript Functions,all with demo-buttons:
 https://codeandpranks.github.io/someFunctions
 
 2.[Deleted.New sceript will take this place]
@@ -22,14 +22,14 @@ https://codeandpranks.github.io/marquee
 https://github.com/CodeAndPranks/test-repo
 
 
-5.Python-prank;Open multiple page sosial plattforms,U can't stop it,browser chrash:
-git clone and run python3 prank.py:https://github.com/CodeAndPranks/prank.py
+5.A python-prank;Open multiple page sosial plattforms eventually browser chrash:
+https://github.com/CodeAndPranks/prank.py
 
 6.[Dealeted.New script will take this place]
 
 7.wiew;Crash chrome,edge.
-Link to easy code at top.Show a img,freez.
-Don't abuse against annoying people in social media,sms,emali or so on.⚠️
+A 2'nd script help to freez wiwe's image
+Disclaimer: don't freez annoying people's browser in sosial media,or use link in sms,email etc⚠️
 https://codeandpranks.github.io/wiew
 
 8.Tic,tac,toe Singel-Player:
@@ -37,8 +37,8 @@ https://codeandpranks.github.io/Tictactoe
 
 9.Tic,tac,toe VS PC/phone.
 Se my result,and try js-challengs;
-Don't touch CSS/html,make your app.js:
-build a human VS pc,winn and draw alert,winn and reset functions,pc-move,and hover-effect for boxHuman, without touch the CSS or html files.Google ok,GPT not!
+Don't touch CSS/html,make app.js:
+build a human VS pc, winner and draw alert,winn and a reset functions,pc-move,and hover-effect for boxHuman.Google ok,GPT not!
 https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC
 
 
