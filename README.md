@@ -32,15 +32,9 @@ A 2'nd script help to freez wiwe's image
 Disclaimer: don't freez annoying people's browser in sosial media,or use link in sms,email etc⚠️
 https://codeandpranks.github.io/wiew
 
-8.Tic,tac,toe Singel-Player:
+8.Tic,tac,toe's for any choice from Singel-Player or brainstorming,against friend or play max AI with minimax algorithm where you chose who to start or vs not-AI(dumb)
+Zoom to fit any screen to play anywhere.
 https://codeandpranks.github.io/Tictactoe
-
-9.Tic,tac,toe VS PC/phone.
-Se my result,and try js-challengs;
-Don't touch CSS/html,make app.js:
-build a human VS pc, winner and draw alert,winn and a reset functions,pc-move,and hover-effect for boxHuman.Google ok,GPT not!
-https://github.com/CodeAndPranks/TicTacToe-Human-VS-PC
-
 
 
 <p align="center">(<a href="#up">Up to top</a>)</p>
